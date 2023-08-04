@@ -1,0 +1,5 @@
+{
+    "unwantedRecommendations": [
+        "shufo.vscode-blade-formatter"
+    ]
+}
